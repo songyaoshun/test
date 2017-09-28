@@ -5,7 +5,7 @@
 一系列相等的图片平铺(float:left)，利用css布局只显示一张图片(overflow: hidden)，其余的隐藏。使用偏移量(left:-967px)来显示不同的图片。
 
 
-###Html布局
+### Html布局
 
 conttainer存放所有内容，子容器list存放图片，子容器buttons存放小圆点。
 
